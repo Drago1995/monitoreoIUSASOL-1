@@ -50,3 +50,5 @@ export const getDataForAllMegas = async (tokenParam) => {
     throw error;
   }
 };//hacemos cualquier cambio para probar el commit
+//otro cambio para hacer commit
+//un cambio mas para commit
